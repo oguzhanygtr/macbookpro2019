@@ -1,5 +1,1 @@
-# macbookpro2019
-Macbook Pro 16"
- 
- 
- maybe you don't use macbook but everybode know new macbook isn't it?
+#I modeled the new macbook using css in my new project, it was a bit difficult for me but the result was very nice
