@@ -181,11 +181,13 @@ body {
 .esc {
   width: 36px;
 }
-
+.f1 {
+  width: 360px;
+}
 }
 
 .tab {
-	width: 324px;
+	width: 36px;
 }
 
 
