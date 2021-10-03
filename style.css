@@ -179,10 +179,17 @@ body {
 }
 
 .esc {
-  width: 360px;
+  width: 36px;
 }
 
-.back, .tab {
+}
+
+.back {
+	width: 324px;
+}
+
+
+.back {
   width: 36px;
 }
 
